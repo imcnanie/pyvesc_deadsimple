@@ -8,3 +8,7 @@ git clone https://github.com/imcnanie/pyvesc_deadsimple
 ```
 
 Have a nice day!
+
+
+## Special thanks
+this was translated to python from: [SolidGeek/VescUart](https://github.com/SolidGeek/VescUart)
